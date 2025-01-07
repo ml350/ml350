@@ -1,7 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/1334254248092110856/1708729984/1500x500)](https://github.com/ml350)
- 
-
-### <div align="center">Hello, I'm bez </div>  
+### <div align="center"><h1> Hello, I'm bez369🍊 </h1> </div>  
   
 
 - 🔭 I’m currently working on [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit)  
@@ -10,7 +7,7 @@
 - 🌱 I’m currently learning LLM and blockchain technolocies  
   
 
-- ❓ Ask me about anything related to #Solana blockchain   
+- ❓ Ask me about anything related to crypto and blockchain methods
   
 
 <br/>  
